@@ -21,6 +21,8 @@ A simple and interactive Rock-Paper-Scissors game built with HTML, CSS, and Java
 - Responsive UI
 - Fast and simple gameplay
 
+  Output Image :-
+
 <img width="1209" height="656" alt="image" src="https://github.com/user-attachments/assets/df496102-2081-4902-838a-5f77c4d9ed3d" />
 
 
