@@ -3,16 +3,34 @@
 [Live Demo](https://rock-paper-scissors-d1o1.vercel.app/)
 
 
+# ✊ Rock Paper Scissors Game
 
-# React + Vite
+A simple and interactive Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🛠 Tech Stack
 
-Currently, two official plugins are available:
+- HTML
+- CSS
+- JavaScript
+- Vercel (Deployment)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎮 Features
 
-## Expanding the ESLint configuration
+- User vs Computer game logic
+- Score tracking
+- Responsive UI
+- Fast and simple gameplay
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1209" height="656" alt="image" src="https://github.com/user-attachments/assets/df496102-2081-4902-838a-5f77c4d9ed3d" />
+
+
+## 📦 Setup Instructions
+
+1. Clone the repo  
+   `git clone https://github.com/your-username/rock-paper-scissors.git`
+
+2. Open `index.html` in your browser or use Live Server
+
+---
+
+🔗 **Hosted on Vercel for quick demo and play!**
